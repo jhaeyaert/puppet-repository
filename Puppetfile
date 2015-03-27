@@ -1,4 +1,4 @@
-://forge.puppetlabs.com"
+forge "https://forge.puppetlabs.com"
 
 mod 'puppetlabs-razor'
 mod 'puppetlabs-ntp', "0.0.3"
