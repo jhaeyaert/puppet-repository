@@ -1,0 +1,4 @@
+[submodule "toto"]
+	path = toto
+	url = https://github.com/jhaeyaert/test.git
+	branch = master
